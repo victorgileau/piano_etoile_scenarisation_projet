@@ -1,5 +1,15 @@
 # Scénarisation
 
+## Idée
+
+### Concept
+
+### Objectifs
+
+### Motivations
+
+## Scénario
+
 ```mermaid
 flowchart TD
     A[Debut] -->|test1| B(commence)
@@ -9,3 +19,19 @@ flowchart TD
     C -->|3| F[Étape 1]
     F -->|haaaa| G[qwerty]
 ```
+
+## Ambiance
+
+### Planche d'ambiances visuelles (moodboard)
+
+### Planche d'ambiances sonores
+
+### Références artistiques (image de reference)
+
+## Technologies
+
+### Support médiatique
+
+### Matériel
+
+### Logiciels
