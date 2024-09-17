@@ -24,6 +24,12 @@ flowchart TD
     C -->|1| D[Ne fait rien]
     C -->|2| E[Va vers les detecteur de lumière]
     D --> B
+    E --> F{Fair une action}
+    F -->|Bouger à droite| G[Fait bouger les boulles sur la projections vers la droites]
+    F -->|Bouger à gauche| H[Fait bouger les boulles sur la projections vers la gauche]
+    F -->|Reculer| I[La boulle raptisie]
+    F -->|Avancer| J[La boulle grossie]
+    F -->|Rien faire| F
 ```
 
 ## Ambiance
