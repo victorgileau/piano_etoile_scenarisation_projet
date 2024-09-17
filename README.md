@@ -21,10 +21,10 @@ Créé un lien entre l'interacteur et le visuel.
 flowchart TD
     A[Interacteur entre dans la salle] --> B(Observer la salle)
     B --> C{Interacteur fait une action}
-    C -->|1| D[Ne fait rien]
-    C -->|2| E[Va vers les detecteur de lumière]
-    D --> B
-    E --> F{Fair une action}
+    C --> D[Va vers les detecteur de lumière]
+    C --> E[Ne fait rien]
+    E --> B
+    D --> F{Fair une action}
     F -->|Bouger à droite| G[Fait bouger les boulles sur la projections vers la droites]
     F -->|Bouger à gauche| H[Fait bouger les boulles sur la projections vers la gauche]
     F -->|Reculer| I[La boulle raptisie]
