@@ -47,15 +47,19 @@ flowchart TD
 ### Matériel
 
 * Projecteur
+
 ![image](medias/svg/projecteur.svg)
 
 * Lumières (x3)
-![image](medias/svg/projecteur.svg)
+
+![image](medias/svg/lumiere-2.svg)
 
 * Detecteur de lumière (nombre à déterminer)
-![image](medias/svg/projecteur.svg)
+
+![image](medias/svg/detecteur_lumiere.svg)
 
 * Mur
-![image](medias/svg/projecteur.svg)
+
+![image](medias/svg/mur.svg)
 
 ### Logiciels
