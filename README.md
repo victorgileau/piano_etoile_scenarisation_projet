@@ -46,6 +46,12 @@ flowchart TD
 
 ### Matériel
 
+#### Schéma
+
+Le point est l'interacteur.
+
+![schéma](medias/images/schema.jpg)
+
 * Projecteur
 
 ![image](medias/svg/projecteur.svg)
