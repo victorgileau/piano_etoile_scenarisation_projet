@@ -29,7 +29,7 @@ flowchart TD
     F -->|Bouger à gauche| H[Fait bouger les boulles sur la projections vers la gauche]
     F -->|Reculer| I[La boulle raptisie]
     F -->|Avancer| J[La boulle grossie]
-    F -->|Rien faire| F
+    F -->|Rien faire| B
 ```
 
 ## Ambiance
