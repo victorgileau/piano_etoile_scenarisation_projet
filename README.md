@@ -36,6 +36,8 @@ flowchart TD
 
 ### Planche d'ambiances visuelles (moodboard)
 
+![mooboard](medias/images/moodboard.jpg)
+
 ### Planche d'ambiances sonores
 
 ### Références artistiques (image de reference)
