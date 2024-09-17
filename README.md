@@ -4,20 +4,26 @@
 
 ### Concept
 
+Installation qui utilise l'ombre de l'interacteur pour affecter une projection circulaire.
+
 ### Objectifs
 
+Créé un lien entre l'interacteur et le visuel.
+
 ### Motivations
+
+* Une bonne compréension de touchDesigner
+* Permet un element d'intercativiter simple
 
 ## Scénario
 
 ```mermaid
 flowchart TD
-    A[Debut] -->|test1| B(commence)
-    B --> C{Choisir Étape}
-    C -->|1| D[Étape 1]
-    C -->|2| E[Étape 1]
-    C -->|3| F[Étape 1]
-    F -->|haaaa| G[qwerty]
+    A[Interacteur entre dans la salle] --> B(Observer la salle)
+    B --> C{Interacteur fait une action}
+    C -->|1| D[Ne fait rien]
+    C -->|2| E[Va vers les detecteur de lumière]
+    D --> B
 ```
 
 ## Ambiance
