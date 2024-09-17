@@ -68,4 +68,10 @@ Le point est l'interacteur.
 
 ![image](medias/svg/mur.svg)
 
+* Cables (extensions, cables pour detecteur de lumière et cables pour lumièr)
+
+* Portable ou ordinateur avec touchDesigner
+
+* Écran, souris et clavier
+
 ### Logiciels
