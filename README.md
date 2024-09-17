@@ -75,3 +75,9 @@ Le point est l'interacteur.
 * Écran, souris et clavier
 
 ### Logiciels
+
+* ToucheDesigner
+
+* OSC (pour le moment)
+
+* Programme Arduino
