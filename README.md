@@ -54,7 +54,7 @@ flowchart TD
 
 Le point est l'interacteur.
 
-![schéma](medias/images/impulsum_schema.jpg)
+![schéma](medias/images/impulsum_schema_v2.jpg)
 
 * Projecteur
 
@@ -68,6 +68,10 @@ Le point est l'interacteur.
 
 ![image](medias/svg/impulsum_icon_detecteur_lumiere.svg)
 
+* Speakers (x2)
+
+![image](medias/svg/impulsum_icon_speaker.svg)
+
 * Mur
 
 ![image](medias/svg/impulsum_icon_mur.svg)
@@ -78,7 +82,7 @@ Le point est l'interacteur.
 
 * Écran, souris et clavier
 
-* Deux speakers
+
 
 ### Logiciels
 
