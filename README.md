@@ -1,4 +1,4 @@
-# Scénarisation
+# Projet : Instrumentum
 
 ## Idée
 
@@ -36,7 +36,7 @@ flowchart TD
 
 ### Planche d'ambiances visuelles (moodboard)
 
-![mooboard](medias/images/moodboard.jpg)
+![mooboard](medias/images/moodboard_projet.jpg)
 
 ### Planche d'ambiances sonores
 
@@ -56,19 +56,19 @@ Le point est l'interacteur.
 
 * Projecteur
 
-![image](medias/svg/projecteur.svg)
+![image](medias/svg/icon_projecteur.svg)
 
 * Lumières (x3)
 
-![image](medias/svg/lumiere-2.svg)
+![image](medias/svg/icon_lumiere.svg)
 
-* Detecteur de lumière (nombre à déterminer)
+* Instruments de musiques
 
-![image](medias/svg/detecteur_lumiere.svg)
+![image](medias/svg/icon_detecteur_lumiere.svg)
 
 * Mur
 
-![image](medias/svg/mur.svg)
+![image](medias/svg/icon_mur.svg)
 
 * Cables (extensions, cables pour detecteur de lumière et cables pour lumièr)
 
