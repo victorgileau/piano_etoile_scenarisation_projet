@@ -4,7 +4,7 @@
 
 ### Concept
 
-Installation qui utilise des détecteurs de lumière pour détecter l'ombre de l'interacteur pour effectuer une projection circulaire.
+Installation qui utilise une kinect pour detecter la postion de l'interacteur pour effectuer une projection.
 
 ### Objectifs
 
@@ -67,10 +67,6 @@ Le point est l'interacteur.
 * Lumières (x3)
 
 ![image](medias/svg/impulsum_icon_lumiere.svg)
-
-* Detecteur de lumière
-
-![image](medias/svg/impulsum_icon_detecteur_lumiere.svg)
 
 * Speakers (x2)
 
