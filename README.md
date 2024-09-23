@@ -4,11 +4,13 @@
 
 ### Concept
 
-Installation qui utilise l'ombre de l'interacteur pour affecter une projection circulaire.
+Installation qui utilise des instruments de musique utiliser par l'interacteur pour affecter une projection circulaire.
 
 ### Objectifs
 
-Créé un lien entre l'interacteur et le visuel.
+Créé un lien entre l'interacteur, la musique et le visuel.
+
+Voir l'impact de la musique visuellement.
 
 ### Motivations
 
@@ -75,6 +77,10 @@ Le point est l'interacteur.
 * Portable ou ordinateur avec touchDesigner
 
 * Écran, souris et clavier
+
+* Instrument de musique (x5) 
+
+* Micro sur chaque instrument pour capter les instruments
 
 ### Logiciels
 
