@@ -29,8 +29,8 @@ flowchart TD
     D --> F{Fair une action}
     F -->|Bouger à droite| G[Fait bouger les boulles sur la projections vers la droites]
     F -->|Bouger à gauche| H[Fait bouger les boulles sur la projections vers la gauche]
-    F -->|Reculer| I[La boulle raptisie]
-    F -->|Avancer| J[La boulle grossie]
+    F -->|Reculer| I[La boulle raptisie et Diminu volume trame sonore]
+    F -->|Avancer| J[La boulle grossie et Augmante volume trame sonore]
     F -->|Rien faire| B
 ```
 
@@ -77,6 +77,8 @@ Le point est l'interacteur.
 * Portable ou ordinateur avec touchDesigner
 
 * Écran, souris et clavier
+
+* Deux speakers
 
 ### Logiciels
 
