@@ -24,7 +24,7 @@ Voir l'impact de la musique visuellement.
 
 ```mermaid
 flowchart TD
-    A[Interacteur entre] --> B(Observer la salle)
+    A[Interacteur entre dans la salle] --> B(Observer la salle)
     B --> C{Interacteur fait une action}
     C --> D[Va vers les detecteur de lumière]
     C --> E[Ne fait rien]
