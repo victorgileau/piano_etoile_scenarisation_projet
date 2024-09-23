@@ -1,10 +1,10 @@
-# Projet : Instrumentum
+# Projet : Impulsum
 
 ## Idée
 
 ### Concept
 
-Installation qui utilise des instruments de musique utiliser par l'interacteur pour affecter une projection circulaire.
+Installation qui utilise des détecteurs de lumière pour détecter l'ombre de l'interacteur pour effectuer une projection circulaire.
 
 ### Objectifs
 
@@ -64,7 +64,7 @@ Le point est l'interacteur.
 
 ![image](medias/svg/icon_lumiere.svg)
 
-* Instruments de musiques
+* Detecteur de lumière
 
 ![image](medias/svg/icon_detecteur_lumiere.svg)
 
@@ -77,10 +77,6 @@ Le point est l'interacteur.
 * Portable ou ordinateur avec touchDesigner
 
 * Écran, souris et clavier
-
-* Instrument de musique (x5) 
-
-* Micro sur chaque instrument pour capter les instruments
 
 ### Logiciels
 
