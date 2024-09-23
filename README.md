@@ -38,7 +38,7 @@ flowchart TD
 
 ### Planche d'ambiances visuelles (moodboard)
 
-![mooboard](medias/images/moodboard_projet.jpg)
+![mooboard](medias/images/implulsum_moodboard_projet.jpg)
 
 ### Planche d'ambiances sonores
 
@@ -54,23 +54,23 @@ flowchart TD
 
 Le point est l'interacteur.
 
-![schéma](medias/images/schema.jpg)
+![schéma](medias/images/impulsum_schema.jpg)
 
 * Projecteur
 
-![image](medias/svg/icon_projecteur.svg)
+![image](medias/svg/impulsum_icon_projecteur.svg)
 
 * Lumières (x3)
 
-![image](medias/svg/icon_lumiere.svg)
+![image](medias/svg/impulsum_icon_lumiere.svg)
 
 * Detecteur de lumière
 
-![image](medias/svg/icon_detecteur_lumiere.svg)
+![image](medias/svg/impulsum_icon_detecteur_lumiere.svg)
 
 * Mur
 
-![image](medias/svg/icon_mur.svg)
+![image](medias/svg/impulsum_icon_mur.svg)
 
 * Cables (extensions, cables pour detecteur de lumière et cables pour lumièr)
 
