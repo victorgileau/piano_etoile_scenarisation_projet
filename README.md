@@ -103,4 +103,4 @@ Communication faite entre un portable ou un ordinateur avec un périphérique qu
 Câble USB ou Ethernet à déterminer.
 
 
-** Par Victor Gileau **
+**Par Victor Gileau**
