@@ -54,7 +54,7 @@ flowchart TD
 
 Le point est l'interacteur.
 
-![schéma](medias/images/impulsum_schema_v2.jpg)
+<img src="medias/images/impulsum_schema_v2.jpg" width="80%">
 
 * Projecteur
 
