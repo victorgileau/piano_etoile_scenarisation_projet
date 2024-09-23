@@ -8,8 +8,7 @@ Installation qui utilise des détecteurs de lumière pour détecter l'ombre de l
 
 ### Objectifs
 
-Créé un lien entre l'interacteur, la musique et le visuel.
-Voir l'impact de la musique visuellement.
+Créé un lien entre l'interacteur et le visuel.
 
 [Définition des objectifs de l'expérience : quel est le message ou l'émotion que l’on souhaite faire passer ?]: #
 
