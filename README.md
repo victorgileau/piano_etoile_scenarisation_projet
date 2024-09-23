@@ -9,10 +9,13 @@ Installation qui utilise des détecteurs de lumière pour détecter l'ombre de l
 ### Objectifs
 
 Créé un lien entre l'interacteur, la musique et le visuel.
-
 Voir l'impact de la musique visuellement.
 
+[Définition des objectifs de l'expérience : quel est le message ou l'émotion que l’on souhaite faire passer ?]: #
+
 ### Motivations
+
+[Discussion des motivations créatives derrière le choix des médias et des technologies.]: #
 
 * Une bonne compréension de touchDesigner
 * Permet un element d'intercativiter simple
@@ -42,11 +45,13 @@ flowchart TD
 
 ### Planche d'ambiances sonores
 
-### Références artistiques (image de reference)
+[Utilisation d'échantillons, de musiques, de textures sonores pour représenter l’univers artistique.]: #
 
 ## Technologies
 
 ### Support médiatique
+
+[Description des types de médias (vidéo, audio, lumières, capteurs, etc.) et de leur intégration pour créer une expérience immersive.]: #
 
 ### Matériel
 
@@ -98,3 +103,4 @@ Communication faite entre un portable ou un ordinateur avec un périphérique qu
 Câble USB ou Ethernet à déterminer.
 
 
+** Par Victor Gileau **
