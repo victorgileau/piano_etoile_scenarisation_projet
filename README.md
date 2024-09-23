@@ -86,8 +86,15 @@ Le point est l'interacteur.
 
 ### Logiciels
 
-* ToucheDesigner
+* TouchDesigner
 
-* OSC (pour le moment)
+* OSCBridge (pour le moment)
 
 * Programme Arduino
+
+### Réseautage
+
+Communication faite entre un portable ou un ordinateur avec un périphérique qui a un programme Arduino qui permet la communication avec TouchDesigner avec OSC.
+Câble USB ou Ethernet à déterminer.
+
+
