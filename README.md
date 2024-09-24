@@ -25,12 +25,12 @@ Créé un lien entre l'interacteur et le visuel.
 flowchart TD
     A[Interacteur entre dans la salle] --> B(Observer la salle)
     B --> C{Interacteur fait une action}
-    C --> D[Va vers les detecteur de lumière]
+    C --> D[Va vers la zone de detection de la kinect]
     C --> E[Ne fait rien]
     E --> B
     D --> F{Fair une action}
-    F -->|Bouger à droite| G[Fait bouger les boulles sur la projections vers la droites]
-    F -->|Bouger à gauche| H[Fait bouger les boulles sur la projections vers la gauche]
+    F -->|Bouger à droite| G[Change de son pour celui assigné à la boulle à la droite + la boulle qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à droite]
+    F -->|Bouger à gauche| H[Change de son pour celui assigné à la boulle à la gauche + la boulle qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à gauche]
     F -->|Reculer| I[La boulle raptisie et Diminu volume trame sonore]
     F -->|Avancer| J[La boulle grossie et Augmante volume trame sonore]
     F -->|Rien faire| B
@@ -50,6 +50,9 @@ flowchart TD
 
 ### Support médiatique
 
+Utilisation de sons différents pour chaque section où il y aura une boulle dans la projection pour créer une trame sonore complète.
+Visuel fait avec TouchDesigner créant des images de boulles chantantes ressemblant à des étoiles.
+
 [Description des types de médias (vidéo, audio, lumières, capteurs, etc.) et de leur intégration pour créer une expérience immersive.]: #
 
 ### Matériel
@@ -68,6 +71,10 @@ Le point est l'interacteur.
 
 ![image](medias/svg/impulsum_icon_lumiere.svg)
 
+* kinect (x1)
+
+![kinect](medias/images/500px-KinectForWindows.jpg)
+
 * Speakers (x2)
 
 ![image](medias/svg/impulsum_icon_speaker.svg)
@@ -76,13 +83,11 @@ Le point est l'interacteur.
 
 ![image](medias/svg/impulsum_icon_mur.svg)
 
-* Cables (extensions, cables pour detecteur de lumière et cables pour lumièr)
+* Cables (extensions, cables pour la kinect)
 
 * Portable ou ordinateur avec touchDesigner
 
 * Écran, souris et clavier
-
-
 
 ### Logiciels
 
@@ -94,7 +99,7 @@ Le point est l'interacteur.
 
 ### Réseautage
 
-Communication faite entre un portable ou un ordinateur avec un périphérique qui a un programme Arduino qui permet la communication avec TouchDesigner avec OSC.
+Communication faite entre un portable ou un ordinateur avec un périphérique qui a un programme Arduino qui permet la communication avec TouchDesigner.
 Câble USB ou Ethernet à déterminer.
 
 
