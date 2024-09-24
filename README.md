@@ -17,7 +17,6 @@ Créé un lien entre l'interacteur et le visuel.
 [Discussion des motivations créatives derrière le choix des médias et des technologies.]: #
 
 * Une bonne compréension de touchDesigner
-* Permet un element d'intercativiter simple
 
 ## Scénario
 
@@ -45,6 +44,8 @@ flowchart TD
 ![protoype](medias/images/prototype_boulle_chantante.png)
 
 ### Planche d'ambiances sonores
+
+[Vidéo Youtube son d'étoile (les crédits des sons son dans la description de la vidéo)](https://www.youtube.com/watch?v=UoIm7IS0sgY)
 
 [Utilisation d'échantillons, de musiques, de textures sonores pour représenter l’univers artistique.]: #
 
@@ -103,6 +104,16 @@ Le point est l'interacteur.
 
 Communication faite entre un portable ou un ordinateur avec un périphérique qui a un programme Arduino qui permet la communication avec TouchDesigner.
 Câble USB ou Ethernet à déterminer.
+
+## Réferences
+
+### Medias
+
+* [The Immersive, Transcendental Experience of AudioVisual Installation](https://medium.com/@harrydavidhm/the-immersive-transcendental-experience-of-audiovisual-installation-b252b76d860c)
+* [Générer par ai trouver sur google](https://www.freepik.com/premium-ai-image/multimedia-installation-exploring-role-design_235406780.htm)
+* [‘We Harvest Wind’ Renewable energy art installation](https://www.youtube.com/watch?app=desktop&v=tzfy7VtPCCU)
+* [Connection 1](https://blog.connectinstitute.ma/connexion-1-une-installation-multimedia-unique/)
+* [Boulle rgb](https://www.youtube.com/watch?app=desktop&v=DKmHAMbtDlg)
 
 
 **Par Victor Gileau**
