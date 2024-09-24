@@ -28,11 +28,13 @@ flowchart TD
     C --> E[Ne fait rien]
     E --> B
     D --> F{Fair une action}
-    F -->|Bouger à droite| G[Change de son pour celui assigné à la boulle à la droite + la boulle qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à droite]
-    F -->|Bouger à gauche| H[Change de son pour celui assigné à la boulle à la gauche + la boulle qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à gauche]
+    F -->|Bouger à droite| G[Change de son pour celui assigné à la boulle à la droite + ]
+    F -->|Bouger à gauche| H[Change de son pour celui assigné à la boulle à la gauche + ]
     F -->|Reculer| I[La boulle raptisie et Diminu volume trame sonore]
     F -->|Avancer| J[La boulle grossie et Augmante volume trame sonore]
     F -->|Rien faire| B
+    G --> K[La boulle qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à droite]
+    H --> L[La boulle qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à gauche]
 ```
 
 ## Ambiance
@@ -64,7 +66,7 @@ Visuel fait avec TouchDesigner créant des images de boulles chantantes ressembl
 
 Le point est l'interacteur.
 
-<img src="medias/images/impulsum_schema_v2.jpg" width="80%">
+<img src="medias/images/schema_v3.jpg" width="80%">
 
 * Projecteur
 
@@ -75,6 +77,8 @@ Le point est l'interacteur.
 ![image](medias/svg/impulsum_icon_lumiere.svg)
 
 * kinect (x1)
+
+![image](medias/svg/impulsum_icon_detecteur_lumiere.svg)
 
 ![kinect](medias/images/500px-KinectForWindows.jpg)
 
