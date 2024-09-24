@@ -1,4 +1,4 @@
-# Projet : Impulsum
+# Projet : Le piano d'étoile
 
 ## Idée
 
@@ -41,6 +41,8 @@ flowchart TD
 ### Planche d'ambiances visuelles (moodboard)
 
 ![mooboard](medias/images/implulsum_moodboard_projet.jpg)
+
+![protoype](medias/images/prototype_boulle_chantante.png)
 
 ### Planche d'ambiances sonores
 
