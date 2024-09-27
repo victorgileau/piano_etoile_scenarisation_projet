@@ -42,7 +42,7 @@ flowchart TD
 
 ### Planche d'ambiances visuelles (moodboard)
 
-![mooboard](medias/images/implulsum_moodboard_projet.jpg)
+![mooboard](medias/images/piano-etoile_moodboard_v2.jpg)
 
 ![protoype](medias/images/prototype_boulle_chantante.png)
 
@@ -67,29 +67,11 @@ Visuel fait avec TouchDesigner créant des images de boulles chantantes ressembl
 
 Le point est l'interacteur.
 
-<img src="medias/images/schema_v3.jpg" width="80%">
+<img alt="schema" src="medias/images/schema_v3.jpg" width="80%">
 
-* Projecteur
-
-![image](medias/svg/impulsum_icon_projecteur.svg)
-
-* Lumières (x3)
-
-![image](medias/svg/impulsum_icon_lumiere.svg)
-
-* kinect (x1)
-
-![image](medias/svg/impulsum_icon_detecteur_lumiere.svg)
-
-![kinect](medias/images/500px-KinectForWindows.jpg)
-
-* Speakers (x2)
-
-![image](medias/svg/impulsum_icon_speaker.svg)
-
-* Mur
-
-![image](medias/svg/impulsum_icon_mur.svg)
+| Projecteur | Lumières (x3) | Kinect | Speakers (x2) | Mur |
+| :--------------- |:---------------| :-----| :--------------- |:---------------|
+| ![svg de projecteur](medias/svg/icon_projecteur.svg) | ![svg de lumière](medias/svg/icon_lumiere.svg) | ![svg de kinect](medias/svg/icon_detecteur_lumiere.svg) ![image de kinect](medias/images/500px-KinectForWindows.jpg) | ![svg de speaker](medias/svg/icon_speaker.svg) | ![svg de mur](medias/svg/icon_mur.svg) |
 
 * Cables (extensions, cables pour la kinect)
 
