@@ -114,9 +114,9 @@ Câble USB ou Ethernet à déterminer.
 
 ### Medias
 
-* [The Immersive, Transcendental Experience of AudioVisual Installation](https://medium.com/@harrydavidhm/the-immersive-transcendental-experience-of-audiovisual-installation-b252b76d860c)
+* [Étoile (soleil)](https://www.numerama.com/sciences/642330-cette-etoile-se-deplace-a-8-de-la-vitesse-de-la-lumiere-pourquoi-est-elle-si-rapide.html)
 * [Générer par ai trouver sur google](https://www.freepik.com/premium-ai-image/multimedia-installation-exploring-role-design_235406780.htm)
-* [‘We Harvest Wind’ Renewable energy art installation](https://www.youtube.com/watch?app=desktop&v=tzfy7VtPCCU)
+* [Première Étoile](https://www.cieletespace.fr/actualites/les-astronomes-ont-ils-enfin-observe-une-etoile-primordiale)
 * [Connection 1](https://blog.connectinstitute.ma/connexion-1-une-installation-multimedia-unique/)
 * [Boulle rgb](https://www.youtube.com/watch?app=desktop&v=DKmHAMbtDlg)
 
