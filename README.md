@@ -8,7 +8,7 @@ Installation qui utilise une kinect pour detecter la postion de l'interacteur po
 
 ### Objectifs
 
-Créé un lien entre l'interacteur et le visuel. Permetre de voir la grandeur des astres qui entoure la terre.
+Émerveiller l'interacteur en créant un lien entre l'interacteur et le visuel. Permettre de voir la grandeur des astres qui entourent la terre.
 
 [Définition des objectifs de l'expérience : quel est le message ou l'émotion que l’on souhaite faire passer ?]: #
 
@@ -17,6 +17,7 @@ Créé un lien entre l'interacteur et le visuel. Permetre de voir la grandeur de
 [Discussion des motivations créatives derrière le choix des médias et des technologies.]: #
 
 * Une bonne compréension de touchDesigner
+* Les étoiles
 
 ## Scénario
 
@@ -30,11 +31,11 @@ flowchart TD
     D --> F{Fair une action}
     F -->|Bouger à droite| G[Change de son pour celui assigné à la boulle à la droite + ]
     F -->|Bouger à gauche| H[Change de son pour celui assigné à la boulle à la gauche + ]
-    F -->|Reculer| I[La boulle raptisie et Diminu volume trame sonore]
-    F -->|Avancer| J[La boulle grossie et Augmante volume trame sonore]
+    F -->|Reculer| I[L'étoile raptisie et Diminu volume trame sonore]
+    F -->|Avancer| J[L'étoile grossie et Augmante volume trame sonore]
     F -->|Rien faire| B
-    G --> K[La boulle qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à droite]
-    H --> L[La boulle qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à gauche]
+    G --> K[L'étoile qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à droite]
+    H --> L[L'étoile qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à gauche]
 ```
 
 ## Ambiance
