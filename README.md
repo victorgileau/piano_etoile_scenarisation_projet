@@ -4,7 +4,7 @@
 
 ### Concept
 
-Installation qui utilise une kinect pour detecter la postion de l'interacteur pour effectuer une projection.
+Installation qui utilise une Kinect pour détecter la position de l'interacteur pour effectuer une projection. La projection consiste de plusieurs étoiles alignées les unes à côté des autres, ayant chacune une section assignée où les interacteurs peuvent interagir avec l'étoile devant eux.
 
 ### Objectifs
 
