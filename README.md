@@ -73,7 +73,7 @@ Le point est l'interacteur.
 | :--------------- |:---------------| :-----| :--------------- |:---------------|
 | ![svg de projecteur](medias/svg/icon_projecteur.svg) | ![svg de lumière](medias/svg/icon_lumiere.svg) | ![svg de kinect](medias/svg/icon_detecteur_lumiere.svg) ![image de kinect](medias/images/500px-KinectForWindows.jpg) | ![svg de speaker](medias/svg/icon_speaker.svg) | ![svg de mur](medias/svg/icon_mur.svg) |
 
-* Cables (extensions, cables pour la kinect)
+* Cables (extensions, cables pour la kinect, cables pour les lumières)
 
 * Portable ou ordinateur avec touchDesigner
 
@@ -82,6 +82,8 @@ Le point est l'interacteur.
 ### Logiciels
 
 * TouchDesigner
+
+* QLC+ (pour les lumières)
 
 * Programme pour utiliser la kinect
 
