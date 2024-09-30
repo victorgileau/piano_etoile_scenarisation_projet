@@ -83,9 +83,7 @@ Le point est l'interacteur.
 
 * TouchDesigner
 
-* OSCBridge (pour le moment)
-
-* Programme Arduino
+* Programme pour utiliser la kinect
 
 ### Réseautage
 
