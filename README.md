@@ -16,8 +16,9 @@ Installation qui utilise une Kinect pour détecter la position de l'interacteur 
 
 [Discussion des motivations créatives derrière le choix des médias et des technologies.]: #
 
+* Les étoiles (objets peu connus est donc un sujet intéressant à explorer)
 * Une bonne compréhension de TouchDesigner
-* Les étoiles
+
 
 ## Scénario
 
