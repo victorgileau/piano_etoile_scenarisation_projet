@@ -1,8 +1,6 @@
-# Projet : Le piano d'étoile
+# Projet : Sellae Lucidae
 
-## Idée
-
-### Concept
+## Concept
 
 Installation qui utilise une Kinect pour détecter la position de l'interacteur pour effectuer une projection. La projection consiste de plusieurs étoiles alignées les unes à côté des autres, ayant chacune une section assignée où les interacteurs peuvent interagir avec l'étoile dans leurs sections.
 
@@ -19,8 +17,31 @@ Installation qui utilise une Kinect pour détecter la position de l'interacteur 
 * Les étoiles (objets peu connus est donc un sujet intéressant à explorer)
 * Une bonne compréhension de TouchDesigner
 
+### Références et inspirations
 
-## Scénario
+#### Planche d'ambiances visuelles (moodboard)
+
+![mooboard](medias/images/piano-etoile_moodboard_v2.jpg)
+
+Prototype que j'ai fait.
+
+![protoype](medias/images/prototype_boulle_chantante.png)
+
+### Planche d'ambiances sonores
+
+[Vidéo Youtube son d'étoile (les crédits des sons son dans la description de la vidéo)](https://www.youtube.com/watch?v=UoIm7IS0sgY)
+
+[Utilisation d'échantillons, de musiques, de textures sonores pour représenter l’univers artistique.]: #
+
+## Scénario interactif
+
+### Déroulement interactif
+
+[ - Décrire comment l’utilisateur interagit avec l’installation. - Expliquer les actions possibles, les réponses de l’installation (visuelles, sonores, lumineuses) et les chemins narratifs ou évolutions possibles.]: #
+
+### Logigramme des interactions
+
+[ - Présenter un schéma illustrant les points d’interaction clé, les déclenchements multimédias, et les éventuels embranchements narratifs.]: #
 
 ```mermaid
 flowchart TD
@@ -39,19 +60,55 @@ flowchart TD
     H --> L[L'étoile qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à gauche]
 ```
 
-## Ambiance
+## Scénarimage / Simulation
 
-### Planche d'ambiances visuelles (moodboard)
+### Visualisation des séquences
 
-![mooboard](medias/images/piano-etoile_moodboard_v2.jpg)
+[ - Présenter un scénarimage ou une simulation en 3D qui montre les principales étapes de l’expérience multimédia, du point de vue de l’utilisateur.]: #
 
-![protoype](medias/images/prototype_boulle_chantante.png)
+### Illustrations des interactions
 
-### Planche d'ambiances sonores
+[ - Intégrer des visuels ou des captures d’écrans montrant comment l’installation réagit aux actions des utilisateurs.]: #
 
-[Vidéo Youtube son d'étoile (les crédits des sons son dans la description de la vidéo)](https://www.youtube.com/watch?v=UoIm7IS0sgY)
+### Évolution visuelle et narrative
 
-[Utilisation d'échantillons, de musiques, de textures sonores pour représenter l’univers artistique.]: #
+[ - Visualiser la progression de l'expérience en fonction des interactions utilisateurs.]: #
+
+## Synoptique
+
+### Schéma technique
+
+[ - Créer un synoptique représentant les connexions entre les dispositifs (câblages, réseaux, signaux audio/vidéo, etc.). - Préciser les types de signal, les protocoles utilisés et la communication entre les dispositifs (OSC, MIDI, DMX, etc.).]: #
+
+### Flux de données
+
+[ - Décrire le cheminement des flux de données entre les différentes composantes de l’installation.]: #
+
+## Plantation
+
+### Emplacement des dispositifs
+
+[ - Planifier la disposition des dispositifs multimédias dans l’espace (projecteurs, capteurs, caméras, haut-parleurs, etc.). - Justifier chaque emplacement en fonction des besoins techniques et des interactions utilisateurs..]: #
+
+### Circulation des visiteurs
+
+[ - Anticiper le mouvement des visiteurs et leur interaction avec les points d’interaction dans l’espace.]: #
+
+### Gestion des câblages
+
+[ - Préciser comment les câblages et connexions seront organisés pour assurer la sécurité et l’esthétique de l’installation.]: #
+
+Next ------------------------------------------- tech
+
+## Anticiper les besoins matériels et logiciels
+
+### Liste des équipements
+
+[ - Identifier les équipements nécessaires (projecteurs, serveurs, capteurs, dispositifs interactifs, etc.) et justifier leur choix en fonction des besoins du projet.]: #
+
+### Logiciels et réseaux
+
+[ - Préciser les logiciels et systèmes nécessaires au bon fonctionnement de l’installation (logiciels de projection, de traitement vidéo, gestion d’éclairage, etc.). - Décrire la gestion des réseaux et des systèmes de communication entre les différentes composantes.]: #
 
 ## Technologies
 
