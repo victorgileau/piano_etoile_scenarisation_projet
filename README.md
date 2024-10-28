@@ -72,7 +72,8 @@ flowchart TD
 
 ![coin](medias/images/test_coin-v2.jpg)
 
-![video](medias/video/protoype_video_v1.mp4)
+[![video](https://img.youtube.com/vi/aPS43QriIpo/0.jpg)](https://www.youtube.com/watch?v=aPS43QriIpo)
+
 
 [ - Présenter un scénarimage ou une simulation en 3D qui montre les principales étapes de l’expérience multimédia, du point de vue de l’utilisateur.]: #
 
