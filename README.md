@@ -66,6 +66,14 @@ flowchart TD
 
 ### Visualisation des séquences
 
+![arrière](medias/images/test_back-v2.jpg)
+
+![côté](medias/images/test_side-v2.jpg)
+
+![coin](medias/images/test_coin-v2.jpg)
+
+![video](medias/video/protoype_video_v1.mp4)
+
 [ - Présenter un scénarimage ou une simulation en 3D qui montre les principales étapes de l’expérience multimédia, du point de vue de l’utilisateur.]: #
 
 ### Illustrations des interactions
