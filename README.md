@@ -37,6 +37,8 @@ Prototype que j'ai fait.
 
 ### Déroulement interactif
 
+L'utilisateur interagie en bougant devant l'ecran qui a une Kinect en dessous qui perment de detecter l'utiisateur est dans quelle sections. L'utilisateur peut interagire en  bougant ce qui affect des grosses étoiles leur lumière, leur grosseur et leur noise. L'uttilisateur affect aussie les petites étoile dans le background. Le son d'ambiance est constant.
+
 [ - Décrire comment l’utilisateur interagit avec l’installation. - Expliquer les actions possibles, les réponses de l’installation (visuelles, sonores, lumineuses) et les chemins narratifs ou évolutions possibles.]: #
 
 ### Logigramme des interactions
@@ -53,8 +55,8 @@ flowchart TD
     D --> F{Fair une action}
     F -->|Bouger à droite| G[Change de son pour celui assigné à la boulle à la droite + ]
     F -->|Bouger à gauche| H[Change de son pour celui assigné à la boulle à la gauche + ]
-    F -->|Reculer| I[L'étoile raptisie et Diminu volume trame sonore]
-    F -->|Avancer| J[L'étoile grossie et Augmante volume trame sonore]
+    F -->|Reculer| I[L'étoile raptisie et affect aussi les petites étoile en arrière]
+    F -->|Avancer| J[L'étoile grossie et affect aussi les petites étoile en arrière]
     F -->|Rien faire| B
     G --> K[L'étoile qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à droite]
     H --> L[L'étoile qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à gauche]
