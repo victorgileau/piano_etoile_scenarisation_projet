@@ -87,6 +87,8 @@ flowchart TD
 
 ## Synoptique
 
+![protoype](medias/images/plan_synoptique.png)
+
 ### Schéma technique
 
 [ - Créer un synoptique représentant les connexions entre les dispositifs (câblages, réseaux, signaux audio/vidéo, etc.). - Préciser les types de signal, les protocoles utilisés et la communication entre les dispositifs (OSC, MIDI, DMX, etc.).]: #
@@ -97,7 +99,15 @@ flowchart TD
 
 ## Plantation
 
+![côté](medias/images/test_side-v2.jpg)
+
 ### Emplacement des dispositifs
+
+#### Schéma
+
+Le point est l'interacteur.
+
+<img alt="schema" src="medias/images/schema_v3.jpg" width="80%">
 
 [ - Planifier la disposition des dispositifs multimédias dans l’espace (projecteurs, capteurs, caméras, haut-parleurs, etc.). - Justifier chaque emplacement en fonction des besoins techniques et des interactions utilisateurs..]: #
 
@@ -114,6 +124,12 @@ Next ------------------------------------------- tech
 ## Anticiper les besoins matériels et logiciels
 
 ### Liste des équipements
+
+![côté](medias/images/projecteur.png)
+![côté](medias/images/cable_kinect.png)
+![côté](medias/images/lumiere.png)
+![côté](medias/images/speaker.png)
+![côté](medias/images/500px-KinectForWindows.jpg)
 
 [ - Identifier les équipements nécessaires (projecteurs, serveurs, capteurs, dispositifs interactifs, etc.) et justifier leur choix en fonction des besoins du projet.]: #
 
@@ -132,11 +148,7 @@ Visuel fait avec TouchDesigner créant des images de boulles chantantes ressembl
 
 ### Matériel
 
-#### Schéma
 
-Le point est l'interacteur.
-
-<img alt="schema" src="medias/images/schema_v3.jpg" width="80%">
 
 | Projecteur | Lumières (x3) | Kinect | Speakers (x2) | Mur |
 | :--------------- |:---------------| :-----| :--------------- |:---------------|
