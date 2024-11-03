@@ -53,17 +53,19 @@ Visuel fait avec TouchDesigner créant des images de boulles chantantes ressembl
 flowchart TD
     A[Interacteur entre dans la salle] --> B(Observer la salle)
     B --> C{Interacteur fait une action}
-    C --> D[Va vers la zone de detection de la kinect]
+    C --> D[Va vers la zone de detection <br> de la kinect]
     C --> E[Ne fait rien]
     E --> B
     D --> F{Fair une action}
-    F -->|Bouger à droite| G[Change de son pour celui assigné à la boulle à la droite + ]
-    F -->|Bouger à gauche| H[Change de son pour celui assigné à la boulle à la gauche + ]
-    F -->|Reculer| I[L'étoile raptisie et affect aussi les petites étoile en arrière]
-    F -->|Avancer| J[L'étoile grossie et affect aussi les petites étoile en arrière]
+    F -->|Bouger à droite| G[Change de son pour celui <br> assigné à la boulle à la droite + ]
+    F -->|Bouger à gauche| H[Change de son pour celui <br> assigné à la boulle à la gauche + ]
+    F -->|Reculer| I[L'étoile raptisie et affect <br> aussi les petites étoile en arrière]
+    F -->|Avancer| J[L'étoile grossie et affect <br> aussi les petites étoile en arrière]
     F -->|Rien faire| B
-    G --> K[L'étoile qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à droite]
-    H --> L[L'étoile qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à gauche]
+    G --> K[L'étoile qui était devant l'interacteur <br> devient inactive et moins claire.]
+    H --> L[L'étoile qui était devant l'interacteur <br> devient inactive et moins claire.]
+    K --> M[L'inverse se produit à celle à droite]
+    L --> N[L'inverse se produit à celle à gauche]
 
 linkStyle default stroke:#3e30ff
 ```
