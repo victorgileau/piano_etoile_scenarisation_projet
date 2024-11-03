@@ -102,8 +102,6 @@ linkStyle default stroke:#3e30ff
 
 ## Plantation
 
-![côté](medias/images/test_side-v2.jpg)
-
 ### Emplacement des dispositifs
 
 #### Schéma
@@ -112,17 +110,23 @@ Le point est l'interacteur.
 
 <img alt="schema" src="medias/images/schema_v3.jpg" width="80%">
 
+#### Render
+
+![côté](medias/images/test_side-v2.jpg)
+
 [ - Planifier la disposition des dispositifs multimédias dans l’espace (projecteurs, capteurs, caméras, haut-parleurs, etc.). - Justifier chaque emplacement en fonction des besoins techniques et des interactions utilisateurs..]: #
 
 ### Circulation des visiteurs
+
+Le visiteur entre par le bas du schéma pour effectuer des mouvment devant la projection par la suite. PLusieurs personne peuvent être présent en même temps devant la projection.
 
 [ - Anticiper le mouvement des visiteurs et leur interaction avec les points d’interaction dans l’espace.]: #
 
 ### Gestion des câblages
 
-[ - Préciser comment les câblages et connexions seront organisés pour assurer la sécurité et l’esthétique de l’installation.]: #
+Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alimentation pour les **lumières** et le **projecteur**. Un point d'alimentation pour l'**ordinateur**. Un câble **HDMI** entre l'ordinateur et le projecteur. Les speakers sont connectés à une carte de son et la carte de son est connectée à l'ordinateur. La Kinect est connectée avec un adaptateur à l'ordinateur. L'ordinateur a un clavier, une souris et un écran de connecté.
 
-Next ------------------------------------------- tech
+[ - Préciser comment les câblages et connexions seront organisés pour assurer la sécurité et l’esthétique de l’installation.]: #
 
 ## Anticiper les besoins matériels et logiciels
 
