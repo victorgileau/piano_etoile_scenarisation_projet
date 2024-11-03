@@ -2,7 +2,7 @@
 
 ## Concept
 
-Installation qui utilise une Kinect pour détecter la position de l'interacteur pour effectuer une projection. La projection consiste de plusieurs étoiles alignées les unes à côté des autres, ayant chacune une section assignée où les interacteurs peuvent interagir avec l'étoile dans leurs sections.
+Installation qui utilise une Kinect pour détecter la position de l'interacteur pour effectuer une projection. La projection consiste de plusieurs étoiles alignées les unes à côté des autres, ayant chacune une section assignée où les interacteurs peuvent interagir avec l'étoile dans leurs sections. La section change le plus l'interacteur fait de mouvement, pour finalement créer une super nova qui détruit ses alentours. Cela peut être reproduit sur toutes les étoiles en gros montré sur la projection. L'installation montre l'impact qu'on peut avoir.
 
 ### Objectifs
 
