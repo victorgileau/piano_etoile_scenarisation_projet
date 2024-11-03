@@ -6,7 +6,7 @@ Installation qui utilise une Kinect pour détecter la position de l'interacteur 
 
 ### Objectifs
 
-Émerveiller l'interacteur en créant un lien entre l'interacteur et le visuel. Permettre de voir la grandeur des astres qui entourent la terre.
+Émerveiller l'interacteur en créant un lien entre l'interacteur et le visuel. Permettre de voir la grandeur des astres qui entourent la terre. Permet aussi de voir leur destruction par l'action de  l'interacteur.
 
 [Définition des objectifs de l'expérience : quel est le message ou l'émotion que l’on souhaite faire passer ?]: #
 
