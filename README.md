@@ -68,7 +68,7 @@ Visuel fait avec TouchDesigner créant des images de boulles chantantes ressembl
 
 Le point est l'interacteur.
 
-<img alt="schema" src="medias/images/schema_v3.jpg" width="80%">
+<img alt="schema" src="medias/images/schema-v4.jpg" width="80%">
 
 | Projecteur | Lumières (x3) | Kinect | Speakers (x2) | Mur |
 | :--------------- |:---------------| :-----| :--------------- |:---------------|
