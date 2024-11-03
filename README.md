@@ -93,13 +93,11 @@ linkStyle default stroke:#3e30ff
 
 ## Synoptique
 
+Flux de données
+
 ![protoype](medias/images/plan_synoptique-v4.png)
 
-### Schéma technique
-
 [ - Créer un synoptique représentant les connexions entre les dispositifs (câblages, réseaux, signaux audio/vidéo, etc.). - Préciser les types de signal, les protocoles utilisés et la communication entre les dispositifs (OSC, MIDI, DMX, etc.).]: #
-
-### Flux de données
 
 [ - Décrire le cheminement des flux de données entre les différentes composantes de l’installation.]: #
 
@@ -107,7 +105,7 @@ linkStyle default stroke:#3e30ff
 
 ### Emplacement des dispositifs
 
-#### Schéma
+#### Schéma technique
 
 Le point est l'interacteur.
 
