@@ -1,3 +1,5 @@
+# Version complete de planification dans une autre branche
+
 # Projet : Sellae Lucidae
 
 ## Concept
