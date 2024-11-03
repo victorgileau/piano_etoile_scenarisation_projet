@@ -78,8 +78,11 @@ linkStyle default stroke:#3e30ff
 
 ![coin](medias/images/test_coin-v2.jpg)
 
+Render sur que j'ai fait sur maya
+
 [![video](https://img.youtube.com/vi/aPS43QriIpo/0.jpg)](https://www.youtube.com/watch?v=aPS43QriIpo)
 
+Vidéo de prototype que j'ai fait
 
 [ - Présenter un scénarimage ou une simulation en 3D qui montre les principales étapes de l’expérience multimédia, du point de vue de l’utilisateur.]: #
 
@@ -88,6 +91,8 @@ linkStyle default stroke:#3e30ff
 [ - Intégrer des visuels ou des captures d’écrans montrant comment l’installation réagit aux actions des utilisateurs.]: #
 
 ### Évolution visuelle et narrative
+
+L'interacteur est apporté à l'écran par la curiosité et est gardé par les visuels. L'interacteur peut bouger devant la projection et l'étoile devant lui s va gouger de plus en plus comme les étoiles au loin dans l'espace en arrière pour finalement exploser en supernova. Il peut faire exploser les étoiles une à la fois.
 
 [ - Visualiser la progression de l'expérience en fonction des interactions utilisateurs.]: #
 
@@ -124,6 +129,8 @@ Postion du projecteur (Epson EX3280 Projector)
 #### Render
 
 ![côté](medias/images/test_side-v2.jpg)
+
+Render sur que j'ai fait sur maya
 
 [ - Planifier la disposition des dispositifs multimédias dans l’espace (projecteurs, capteurs, caméras, haut-parleurs, etc.). - Justifier chaque emplacement en fonction des besoins techniques et des interactions utilisateurs..]: #
 
