@@ -39,6 +39,9 @@ Prototype que j'ai fait.
 
 L'utilisateur interagie en bougant devant l'ecran qui a une Kinect en dessous qui perment de detecter l'utiisateur est dans quelle sections. L'utilisateur peut interagire en  bougant ce qui affect des grosses étoiles leur lumière, leur grosseur et leur noise. L'uttilisateur affect aussie les petites étoile dans le background. Le son d'ambiance est constant.
 
+Utilisation de sons différents pour chaque section où il y aura une boulle dans la projection pour créer une trame sonore complète.
+Visuel fait avec TouchDesigner créant des images de boulles chantantes ressemblant à des étoiles.
+
 [ - Décrire comment l’utilisateur interagit avec l’installation. - Expliquer les actions possibles, les réponses de l’installation (visuelles, sonores, lumineuses) et les chemins narratifs ou évolutions possibles.]: #
 
 ### Logigramme des interactions
@@ -104,13 +107,15 @@ linkStyle default stroke:#3e30ff
 
 ### Emplacement des dispositifs
 
-
-
 #### Schéma
 
 Le point est l'interacteur.
 
 <img alt="schema" src="medias/images/schema_v3.jpg" width="80%">
+
+| Projecteur | Lumières (x3) | Kinect | Speakers (x2) | Mur |
+| :--------------- |:---------------| :-----| :--------------- |:---------------|
+| ![svg de projecteur](medias/svg/icon_projecteur.svg) | ![svg de lumière](medias/svg/icon_lumiere.svg) | ![svg de kinect](medias/svg/icon_detecteur_lumiere.svg) ![image de kinect](medias/images/500px-KinectForWindows.jpg) | ![svg de speaker](medias/svg/icon_speaker.svg) | ![svg de mur](medias/svg/icon_mur.svg) |
 
 Postion du projecteur (Epson EX3280 Projector)
 
@@ -166,47 +171,40 @@ Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alime
 
 <img alt="kinect" src="medias/images/500px-KinectForWindows.jpg" width="70%">
 
+#### **Câbles** (extensions, cables pour la kinect, cables pour les lumières)
+
+* Câble **XLR** [Acheter Amazon](https://www.amazon.ca/AmazonBasics-Câble-microphone-mâle-femelle/dp/B01JNLTTKS/ref=sr_1_1_ffob_sspa?dib=eyJ2IjoiMSJ9.Qc7Bm99GBP3_XdgZcQz45tvwI3ZqROZzvEu4V-F-QT388d0dx-YLODgUtsRmCb0TR1FPGUPEwhox88PlZm-JDHYXqmpN1VxeKf3W5k1g5NU1RZ2TFPbPHEgvEOSrXuJr0p9KFPer01MgBdV8xSHpXD5YZ1GfRCRcvu-F_YgfHtW0nnIjJADUKZ3dbmYpX97Y90rhmCpxBn37eHkWwjjazddP0l0gZG9GyMqQk0WBrxC5mV0aQjAITQ2gDr7Wvfz22xvF73O-EgQPh9p3sYhI7UYglNw0inOt6GjZYTSyBVE.dWFeMSa3GcqU8O-ySO4vj7Pt5r6aBAjf_mexNg1_OKA&dib_tag=se&hvadid=208379556679&hvdev=c&hvlocphy=9000598&hvnetw=g&hvqmt=e&hvrand=5867566891861396795&hvtargid=kwd-299658550019&hydadcr=5480_9838916&keywords=cable%2Bxlr&qid=1730664946&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+
+* Câble **XLR** femelle vers **TRS** [Acheter Amazon](https://www.amazon.ca/AmazonBasics-Câble-microphone-mâle-femelle/dp/B01JNLTTKS/ref=sr_1_1_ffob_sspa?dib=eyJ2IjoiMSJ9.Qc7Bm99GBP3_XdgZcQz45tvwI3ZqROZzvEu4V-F-QT388d0dx-YLODgUtsRmCb0TR1FPGUPEwhox88PlZm-JDHYXqmpN1VxeKf3W5k1g5NU1RZ2TFPbPHEgvEOSrXuJr0p9KFPer01MgBdV8xSHpXD5YZ1GfRCRcvu-F_YgfHtW0nnIjJADUKZ3dbmYpX97Y90rhmCpxBn37eHkWwjjazddP0l0gZG9GyMqQk0WBrxC5mV0aQjAITQ2gDr7Wvfz22xvF73O-EgQPh9p3sYhI7UYglNw0inOt6GjZYTSyBVE.dWFeMSa3GcqU8O-ySO4vj7Pt5r6aBAjf_mexNg1_OKA&dib_tag=se&hvadid=208379556679&hvdev=c&hvlocphy=9000598&hvnetw=g&hvqmt=e&hvrand=5867566891861396795&hvtargid=kwd-299658550019&hydadcr=5480_9838916&keywords=cable%2Bxlr&qid=1730664946&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+
+* Câble **XLR** femelle vers **USB** [Acheter Amazon](https://www.amazon.ca/femelle-microphone-adaptateur-instruments-enregistrement/dp/B07WR14TYX/ref=sr_1_4_sspa?__mk_fr_CA=ÅMÅŽÕÑ&crid=2IOWF3QHGFSZN&dib=eyJ2IjoiMSJ9.dQGpMpgA9Iulza1HVu-XlK5gRTuLdXG4dKc3tbkKYKA-jMTHiCHNEq1TxnnkXODERf6h6RV-d2g33HtukI6CtW-rpr89U-fAFdxlsNMZ4OfGr21F6ud2zMlh0LZVeyRD0NEMft_wn6JiwvrKmUaYTlQTdfAbuoZpqtVW8t33pGZMe2eCrpvzHhdHhy04AVP7s8HqiZ-ufZRq5aGKWQAI3qPhduy1nDt4jcRi3K5roeoHq32kwXn4Mz8g2hQ1RTwyvAErp7RcdgnHTD0Kfsecbc5vVrnb_O79Sg42bqguw1c.Nf0Li0DKLt-J9auJCgwXc5akNUq49SsF3rtb7SSuqas&dib_tag=se&keywords=cable+xlr+usb&qid=1730665110&sprefix=cable+xlr+usb%2Caps%2C83&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+
+#### Portable ou ordinateur avec touchDesigner
+
+**[Requis minimum TouchDesigner](https://derivative.ca/UserGuide/System_Requirements)**
+
+#### Écran, souris et clavier
+
 [ - Identifier les équipements nécessaires (projecteurs, serveurs, capteurs, dispositifs interactifs, etc.) et justifier leur choix en fonction des besoins du projet.]: #
 
 ### Logiciels et réseaux
 
-[ - Préciser les logiciels et systèmes nécessaires au bon fonctionnement de l’installation (logiciels de projection, de traitement vidéo, gestion d’éclairage, etc.). - Décrire la gestion des réseaux et des systèmes de communication entre les différentes composantes.]: #
-
-## Technologies
-
-### Support médiatique
-
-Utilisation de sons différents pour chaque section où il y aura une boulle dans la projection pour créer une trame sonore complète.
-Visuel fait avec TouchDesigner créant des images de boulles chantantes ressemblant à des étoiles.
-
-[Description des types de médias (vidéo, audio, lumières, capteurs, etc.) et de leur intégration pour créer une expérience immersive.]: #
-
-### Matériel
-
-
-
-| Projecteur | Lumières (x3) | Kinect | Speakers (x2) | Mur |
-| :--------------- |:---------------| :-----| :--------------- |:---------------|
-| ![svg de projecteur](medias/svg/icon_projecteur.svg) | ![svg de lumière](medias/svg/icon_lumiere.svg) | ![svg de kinect](medias/svg/icon_detecteur_lumiere.svg) ![image de kinect](medias/images/500px-KinectForWindows.jpg) | ![svg de speaker](medias/svg/icon_speaker.svg) | ![svg de mur](medias/svg/icon_mur.svg) |
-
-* Cables (extensions, cables pour la kinect, cables pour les lumières)
-
-* Portable ou ordinateur avec touchDesigner
-
-* Écran, souris et clavier
-
-### Logiciels
+#### Logiciels :
 
 * TouchDesigner
 
 * QLC+ (pour les lumières)
 
-* Programme pour utiliser la kinect
+#### Réseautage
 
-### Réseautage
+La kinect communique avec TouchDesigner qui est dans l'ordinateur qui est connecter au projecteur qui projet le projet. Les lumières et speakers marche en XLR.
 
-Un portable ou un ordinateur avec TouchDesigner communique avec un logiciel qui peut comprendre les données de la Kinect et qui les renvoie à TouchDesigner.
-Câble USB ou Ethernet à déterminer.
+[ - Préciser les logiciels et systèmes nécessaires au bon fonctionnement de l’installation (logiciels de projection, de traitement vidéo, gestion d’éclairage, etc.). - Décrire la gestion des réseaux et des systèmes de communication entre les différentes composantes.]: #
+
+[ancienne description : Un portable ou un ordinateur avec TouchDesigner communique avec un logiciel qui peut comprendre les données de la Kinect et qui les renvoie à TouchDesigner.
+Câble USB ou Ethernet à déterminer.]: #
+
+[Description des types de médias (vidéo, audio, lumières, capteurs, etc.) et de leur intégration pour créer une expérience immersive.]: #
 
 ## Réferences
 
