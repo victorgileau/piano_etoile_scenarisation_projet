@@ -104,11 +104,19 @@ linkStyle default stroke:#3e30ff
 
 ### Emplacement des dispositifs
 
+
+
 #### Schéma
 
 Le point est l'interacteur.
 
 <img alt="schema" src="medias/images/schema_v3.jpg" width="80%">
+
+Postion du projecteur (Epson EX3280 Projector)
+
+[Étude sur le projecteur](https://www.projectorcentral.com/Epson-EX3280-projection-calculator-pro.htm#calc)
+
+![Étude sur le projecteur](medias/images/projectiojn_etude.png)
 
 #### Render
 
@@ -124,7 +132,7 @@ Le visiteur entre par le bas du schéma pour effectuer des mouvment devant la pr
 
 ### Gestion des câblages
 
-Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alimentation pour les **lumières** et le **projecteur**. Un point d'alimentation pour l'**ordinateur**. Un câble **HDMI** entre l'ordinateur et le projecteur. Les speakers sont connectés à une carte de son et la carte de son est connectée à l'ordinateur. La Kinect est connectée avec un adaptateur à l'ordinateur. L'ordinateur a un clavier, une souris et un écran de connecté.
+Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alimentation pour les **lumières** et le **projecteur**. Un point d'alimentation pour l'**ordinateur**. Un câble **HDMI** entre l'ordinateur et le projecteur. Les **speakers** sont connectés à une **carte de son** et la **carte de son** est connectée à l'**ordinateur**. La **Kinect** est connectée avec un adaptateur à l'ordinateur. L'**ordinateur** a un clavier, une souris et un écran de connecté.
 
 [ - Préciser comment les câblages et connexions seront organisés pour assurer la sécurité et l’esthétique de l’installation.]: #
 
@@ -132,11 +140,31 @@ Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alime
 
 ### Liste des équipements
 
-![côté](medias/images/projecteur.png)
-![côté](medias/images/cable_kinect.png)
-![côté](medias/images/lumiere.png)
-![côté](medias/images/speaker.png)
-![côté](medias/images/500px-KinectForWindows.jpg)
+#### Projecteur (Epson EX3280 Projector) :
+
+[PDF sur le projecteur](https://files.support.epson.com/docid/cpd5/cpd59120.pdf)
+
+<img alt="projecteur" src="medias/images/projecteur.png" width="70%">
+
+#### Lumière (5PX HEX) :
+
+[Documentation American DJ 5PX HEX](https://www.adj.com/5px-hex)
+
+<img alt="lumiere" src="medias/images/lumiere.png" width="70%">
+
+#### Speaker (Genelec 8040B) :
+
+[Documentation Genelec 8040B](https://www.genelec.com/8040b)
+
+<img alt="speakers" src="medias/images/speaker.png" width="70%">
+
+#### Kinect :
+
+[Documentation Kinect Windows](https://learn.microsoft.com/en-us/windows/apps/design/devices/kinect-for-windows)
+
+[Article amazon](https://www.amazon.ca/-/fr/Kinect-Sensor-Adventures-Renewed/dp/B08124X2C2/ref=sr_1_6?__mk_fr_CA=ÅMÅŽÕÑ&crid=1HYW5JLNV5ZQH&dib=eyJ2IjoiMSJ9._8DxzglzDwRsRe_J0GUXcm9Am349VR2TusxAYgTrh-ULSipVtKarcFcs4qmv5gJvfUj6pd83hyIqJgvVeb8q_Mq3nS_oXTUSliHtkEsx4WbnH2CC-Vs1Z-xyHM5-2gBxfVaBhKCAVTjtxycXwX3Qc7bHHhJdVJV9w0Ue75EEGLPdd17sPawgIPGD60LEkF-ywozFRqDQ7X0qhJHYu-s-Qzav65iXvALUTP2Ws9snnQeHvt-3jLvQZjnkZlN9zxaf-dOTdjHLZ5bV8wTg0R6v3x1ThDh4DXh4nvjg1MyWw4U.rWftGYdl9MEfJHiLn_ZLPrSIYXWy_WvYUINA4Phws7o&dib_tag=se&keywords=kinect&qid=1730664322&sprefix=kinect%2Caps%2C94&sr=8-6)
+
+<img alt="kinect" src="medias/images/500px-KinectForWindows.jpg" width="70%">
 
 [ - Identifier les équipements nécessaires (projecteurs, serveurs, capteurs, dispositifs interactifs, etc.) et justifier leur choix en fonction des besoins du projet.]: #
 
@@ -182,7 +210,7 @@ Câble USB ou Ethernet à déterminer.
 
 ## Réferences
 
-### Medias
+### Medias Moodboard
 
 * [Étoile (soleil)](https://www.numerama.com/sciences/642330-cette-etoile-se-deplace-a-8-de-la-vitesse-de-la-lumiere-pourquoi-est-elle-si-rapide.html)
 * [Générer par ai trouver sur google](https://www.freepik.com/premium-ai-image/multimedia-installation-exploring-role-design_235406780.htm)
