@@ -90,7 +90,7 @@ linkStyle default stroke:#3e30ff
 
 ## Synoptique
 
-![protoype](medias/images/plan_synoptique.png)
+![protoype](medias/images/plan_synoptique-v4.png)
 
 ### Schéma technique
 
