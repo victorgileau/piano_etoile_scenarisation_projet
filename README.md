@@ -46,7 +46,7 @@ L'utilisateur interagie en bougant devant l'ecran qui a une Kinect en dessous qu
 [ - Présenter un schéma illustrant les points d’interaction clé, les déclenchements multimédias, et les éventuels embranchements narratifs.]: #
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '2em', 'primaryColor': '#cfccff'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px', 'primaryColor': '#cfccff'}}}%%
 flowchart TD
     A[Interacteur entre dans la salle] --> B(Observer la salle)
     B --> C{Interacteur fait une action}
