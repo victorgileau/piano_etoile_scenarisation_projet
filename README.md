@@ -46,6 +46,7 @@ L'utilisateur interagie en bougant devant l'ecran qui a une Kinect en dessous qu
 [ - Présenter un schéma illustrant les points d’interaction clé, les déclenchements multimédias, et les éventuels embranchements narratifs.]: #
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '2em', 'primaryColor': '#cfccff'}}}%%
 flowchart TD
     A[Interacteur entre dans la salle] --> B(Observer la salle)
     B --> C{Interacteur fait une action}
@@ -60,6 +61,8 @@ flowchart TD
     F -->|Rien faire| B
     G --> K[L'étoile qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à droite]
     H --> L[L'étoile qui était devant l'interacteur devient inactive et moins claire. L'inverse se produit à celle à gauche]
+
+linkStyle default stroke:#3e30ff
 ```
 
 ## Scénarimage / Simulation
