@@ -1,4 +1,4 @@
-# Projet : Sellae Lucidae
+# Projet : Étoile Mouvante
 
 ## Concept
 
