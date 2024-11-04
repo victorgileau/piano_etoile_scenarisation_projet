@@ -174,6 +174,8 @@ Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alime
 
 <img alt="speakers" src="medias/images/speaker.png" width="70%">
 
+#### Carte de son
+
 #### **Kinect** :
 
 [Documentation Kinect Windows](https://learn.microsoft.com/en-us/windows/apps/design/devices/kinect-for-windows)
