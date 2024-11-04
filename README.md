@@ -37,7 +37,7 @@ Prototype que j'ai fait.
 
 ### Déroulement interactif
 
-L'utilisateur interagie en bougant devant l'ecran qui a une Kinect en dessous qui perment de detecter l'utiisateur est dans quelle sections. L'utilisateur peut interagire en  bougant ce qui affect des grosses étoiles leur lumière, leur grosseur et leur noise. L'uttilisateur affect aussie les petites étoile dans le background. Le son d'ambiance est constant.
+**L'utilisateur** interagie en bougant devant l'ecran qui a une **Kinect** en dessous qui perment de detecter la section ou est **l'utilisateur**. L'utilisateur peut interagir en **bougant** ce qui affect des grosses étoiles leur **lumière**, leur **taille** et leur **noise**. L'uttilisateur affect aussi les **petites étoiles** dans le background. Le **son d'ambiance** est constant.
 
 Utilisation de sons différents pour chaque section où il y aura une boulle dans la projection pour créer une trame sonore complète.
 Visuel fait avec TouchDesigner créant des images de boulles chantantes ressemblant à des étoiles.
@@ -96,7 +96,7 @@ Vidéo de prototype que j'ai fait
 
 ### Évolution visuelle et narrative
 
-L'interacteur est apporté à l'écran par la curiosité et est gardé par les visuels. L'interacteur peut bouger devant la projection et l'étoile devant lui s va gouger de plus en plus comme les étoiles au loin dans l'espace en arrière pour finalement exploser en supernova. Il peut faire exploser les étoiles une à la fois.
+**L'interacteur** est apporté à l'écran par la curiosité et est gardé par les **visuels**. L'interacteur peut **bouger** devant la projection et **l'étoile** devant lui va **bouger** de plus en plus comme les **étoiles au loin** dans l'espace en arrière pour finalement exploser en **supernova**. Il peut faire exploser les étoiles une à la fois.
 
 [ - Visualiser la progression de l'expérience en fonction des interactions utilisateurs.]: #
 
@@ -124,7 +124,7 @@ Le point est l'interacteur.
 | :--------------- |:---------------| :-----| :--------------- |:---------------|
 | ![svg de projecteur](medias/svg/icon_projecteur.svg) | ![svg de lumière](medias/svg/icon_lumiere.svg) | ![svg de kinect](medias/svg/icon_detecteur_lumiere.svg) ![image de kinect](medias/images/500px-KinectForWindows.jpg) | ![svg de speaker](medias/svg/icon_speaker.svg) | ![svg de mur](medias/svg/icon_mur.svg) |
 
-Postion du projecteur (Epson EX3280 Projector)
+Position du projecteur (**Epson EX3280 Projector**)
 
 [Étude sur le projecteur](https://www.projectorcentral.com/Epson-EX3280-projection-calculator-pro.htm#calc)
 
@@ -140,7 +140,7 @@ Render sur que j'ai fait sur maya
 
 ### Circulation des visiteurs
 
-Le visiteur entre par le bas du schéma pour effectuer des mouvment devant la projection par la suite. PLusieurs personne peuvent être présent en même temps devant la projection.
+Le **visiteur** entre par le bas du schéma pour effectuer des **mouvment** devant la **projection** par la suite. **Plusieurs personnes** peuvent être présent en même temps devant la **projection**.
 
 [ - Anticiper le mouvement des visiteurs et leur interaction avec les points d’interaction dans l’espace.]: #
 
@@ -154,25 +154,25 @@ Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alime
 
 ### Liste des équipements
 
-#### Projecteur (Epson EX3280 Projector) :
+#### Projecteur (**Epson EX3280 Projector**) :
 
 [PDF sur le projecteur](https://files.support.epson.com/docid/cpd5/cpd59120.pdf)
 
 <img alt="projecteur" src="medias/images/projecteur.png" width="70%">
 
-#### Lumière (5PX HEX) :
+#### Lumière (**5PX HEX**) :
 
 [Documentation American DJ 5PX HEX](https://www.adj.com/5px-hex)
 
 <img alt="lumiere" src="medias/images/lumiere.png" width="70%">
 
-#### Speaker (Genelec 8040B) :
+#### Speaker (**Genelec 8040B**) :
 
 [Documentation Genelec 8040B](https://www.genelec.com/8040b)
 
 <img alt="speakers" src="medias/images/speaker.png" width="70%">
 
-#### Kinect :
+#### **Kinect** :
 
 [Documentation Kinect Windows](https://learn.microsoft.com/en-us/windows/apps/design/devices/kinect-for-windows)
 
@@ -206,7 +206,7 @@ Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alime
 
 #### Réseautage
 
-La kinect communique avec TouchDesigner qui est dans l'ordinateur qui est connecter au projecteur qui projet le projet. Les lumières et speakers marche en XLR.
+La **kinect** communique avec **TouchDesigner** qui est dans **l'ordinateur** qui est connecter au **projecteur** qui projet le projet. Les **lumières** et les **speakers** marche avec des câbles **XLR**.
 
 [ - Préciser les logiciels et systèmes nécessaires au bon fonctionnement de l’installation (logiciels de projection, de traitement vidéo, gestion d’éclairage, etc.). - Décrire la gestion des réseaux et des systèmes de communication entre les différentes composantes.]: #
 
