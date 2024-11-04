@@ -2,11 +2,13 @@
 
 ## Concept
 
-Installation qui utilise une Kinect pour détecter la position de l'interacteur pour effectuer une projection. La projection consiste de plusieurs étoiles alignées les unes à côté des autres, ayant chacune une section assignée où les interacteurs peuvent interagir avec l'étoile dans leurs sections. La section change le plus l'interacteur fait de mouvement, pour finalement créer une super nova qui détruit ses alentours. Cela peut être reproduit sur toutes les étoiles en gros montré sur la projection. L'installation montre l'impact qu'on peut avoir.
+**Installation** qui utilise une **Kinect** pour détecter la position de l'interacteur pour effectuer une projection. La projection consiste de plusieurs **étoiles** alignées les unes à côté des autres, ayant chacune une **section** assignée où les **interacteurs** peuvent interagir avec l'étoile dans la section. La section change de **plus en plus** quand l'interacteur fait de mouvement, pour finalement créer une **supernova** qui détruit ses alentours. Cela peut être reproduit sur toutes les **étoiles** qui sont en gros sur la **projection**. L'installation montre l'impact qu'on peut avoir. Pour finalement montrer un **espace vide**.
 
 ### Objectifs
 
-Émerveiller l'interacteur en créant un lien entre l'interacteur et le visuel. Permettre de voir la grandeur des astres qui entourent la terre. Permet aussi de voir leur destruction par l'action de  l'interacteur.
+Montrer l'**histoire** d'une **étoile**.
+
+**Émerveiller** l'interacteur en créant un lien entre l'**interacteur** et le **visuel**. Permettre de voir la grandeur des **astres** qui nous entourent. Permet aussi de voir leur **destruction** par l'action l'interacteur. Montrer l'**impact** que peut avoir l'utilisateur.
 
 [Définition des objectifs de l'expérience : quel est le message ou l'émotion que l’on souhaite faire passer ?]: #
 
