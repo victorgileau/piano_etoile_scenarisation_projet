@@ -84,6 +84,8 @@ Render sur que j'ai fait sur maya
 
 [![video](https://img.youtube.com/vi/aPS43QriIpo/0.jpg)](https://www.youtube.com/watch?v=aPS43QriIpo)
 
+[Lien vers vidéo du prototype](https://youtu.be/aPS43QriIpo)
+
 Vidéo de prototype que j'ai fait
 
 [ - Présenter un scénarimage ou une simulation en 3D qui montre les principales étapes de l’expérience multimédia, du point de vue de l’utilisateur.]: #
