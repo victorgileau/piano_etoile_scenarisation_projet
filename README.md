@@ -174,8 +174,6 @@ Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alime
 
 <img alt="speakers" src="medias/images/speaker.png" width="70%">
 
-#### Carte de son
-
 #### **Kinect** :
 
 [Documentation Kinect Windows](https://learn.microsoft.com/en-us/windows/apps/design/devices/kinect-for-windows)
@@ -183,6 +181,8 @@ Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alime
 [Article amazon](https://www.amazon.ca/-/fr/Kinect-Sensor-Adventures-Renewed/dp/B08124X2C2/ref=sr_1_6?__mk_fr_CA=ÅMÅŽÕÑ&crid=1HYW5JLNV5ZQH&dib=eyJ2IjoiMSJ9._8DxzglzDwRsRe_J0GUXcm9Am349VR2TusxAYgTrh-ULSipVtKarcFcs4qmv5gJvfUj6pd83hyIqJgvVeb8q_Mq3nS_oXTUSliHtkEsx4WbnH2CC-Vs1Z-xyHM5-2gBxfVaBhKCAVTjtxycXwX3Qc7bHHhJdVJV9w0Ue75EEGLPdd17sPawgIPGD60LEkF-ywozFRqDQ7X0qhJHYu-s-Qzav65iXvALUTP2Ws9snnQeHvt-3jLvQZjnkZlN9zxaf-dOTdjHLZ5bV8wTg0R6v3x1ThDh4DXh4nvjg1MyWw4U.rWftGYdl9MEfJHiLn_ZLPrSIYXWy_WvYUINA4Phws7o&dib_tag=se&keywords=kinect&qid=1730664322&sprefix=kinect%2Caps%2C94&sr=8-6)
 
 <img alt="kinect" src="medias/images/500px-KinectForWindows.jpg" width="70%">
+
+#### **Carte de son**
 
 #### **Câbles** (extensions, cables pour la kinect, cables pour les lumières)
 
