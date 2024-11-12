@@ -122,9 +122,11 @@ Le point est l'interacteur.
 
 <img alt="schema" src="medias/images/schema-v4.jpg" width="80%">
 
-| Projecteur | Lumières (x3) | Kinect | Speakers (x2) | Mur |
+| Projecteur | Lumières (x2) | Kinect | Haut-Parleurs (x2) | Mur |
 | :--------------- |:---------------| :-----| :--------------- |:---------------|
 | ![svg de projecteur](medias/svg/icon_projecteur.svg) | ![svg de lumière](medias/svg/icon_lumiere.svg) | ![svg de kinect](medias/svg/icon_detecteur_lumiere.svg) ![image de kinect](medias/images/500px-KinectForWindows.jpg) | ![svg de speaker](medias/svg/icon_speaker.svg) | ![svg de mur](medias/svg/icon_mur.svg) |
+
+<img alt="schema" src="medias/images/shema-cote.jpg" width="100%">
 
 Position du projecteur (**Epson EX3280 Projector**)
 
