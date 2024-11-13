@@ -82,6 +82,8 @@ linkStyle default stroke:#3e30ff
 
 ![coin](medias/images/test_coin-v2.jpg)
 
+![2 interacteur](medias/images/test_back-two-intercation.jpg)
+
 Render sur que j'ai fait sur maya
 
 [![video](https://img.youtube.com/vi/aPS43QriIpo/0.jpg)](https://www.youtube.com/watch?v=aPS43QriIpo)
