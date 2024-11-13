@@ -108,7 +108,7 @@ Vidéo de prototype que j'ai fait
 
 Flux de données
 
-![protoype](medias/images/plan_synoptique-v4.png)
+![Synoptique](medias/images/plan_synoptique-v4.png)
 
 [ - Créer un synoptique représentant les connexions entre les dispositifs (câblages, réseaux, signaux audio/vidéo, etc.). - Préciser les types de signal, les protocoles utilisés et la communication entre les dispositifs (OSC, MIDI, DMX, etc.).]: #
 
