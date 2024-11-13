@@ -120,13 +120,13 @@ Flux de données
 
 Le point est l'interacteur.
 
-<img alt="schema" src="medias/images/schema-v4.jpg" width="80%">
+<img alt="schema" src="medias/images/schema-cables.jpg" width="80%">
 
 | Projecteur | Lumières (x2) | Kinect | Haut-Parleurs (x2) | Mur |
 | :--------------- |:---------------| :-----| :--------------- |:---------------|
 | ![svg de projecteur](medias/svg/icon_projecteur.svg) | ![svg de lumière](medias/svg/icon_lumiere.svg) | ![svg de kinect](medias/svg/icon_detecteur_lumiere.svg) ![image de kinect](medias/images/500px-KinectForWindows.jpg) | ![svg de haut-parleur](medias/svg/icon_speaker.svg) | ![svg de mur](medias/svg/icon_mur.svg) |
 
-<img alt="schema" src="medias/images/shema-cote.jpg" width="100%">
+<img alt="schema" src="medias/images/shema-cote.jpg" width="90%">
 
 Position du projecteur (**Epson EX3280 Projector**)
 
