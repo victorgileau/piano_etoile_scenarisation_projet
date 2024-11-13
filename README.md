@@ -124,7 +124,7 @@ Le point est l'interacteur.
 
 | Projecteur | Lumières (x2) | Kinect | Haut-Parleurs (x2) | Mur |
 | :--------------- |:---------------| :-----| :--------------- |:---------------|
-| ![svg de projecteur](medias/svg/icon_projecteur.svg) | ![svg de lumière](medias/svg/icon_lumiere.svg) | ![svg de kinect](medias/svg/icon_detecteur_lumiere.svg) ![image de kinect](medias/images/500px-KinectForWindows.jpg) | ![svg de speaker](medias/svg/icon_speaker.svg) | ![svg de mur](medias/svg/icon_mur.svg) |
+| ![svg de projecteur](medias/svg/icon_projecteur.svg) | ![svg de lumière](medias/svg/icon_lumiere.svg) | ![svg de kinect](medias/svg/icon_detecteur_lumiere.svg) ![image de kinect](medias/images/500px-KinectForWindows.jpg) | ![svg de haut-parleur](medias/svg/icon_speaker.svg) | ![svg de mur](medias/svg/icon_mur.svg) |
 
 <img alt="schema" src="medias/images/shema-cote.jpg" width="100%">
 
@@ -150,7 +150,7 @@ Le **visiteur** entre par le bas du schéma pour effectuer des **mouvment** deva
 
 ### Gestion des câblages
 
-Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alimentation pour les **lumières** et le **projecteur**. Un point d'alimentation pour l'**ordinateur**. Un câble **HDMI** entre l'ordinateur et le projecteur. Les **speakers** sont connectés à une **carte de son** et la **carte de son** est connectée à l'**ordinateur**. La **Kinect** est connectée avec un adaptateur à l'ordinateur. L'**ordinateur** a un clavier, une souris et un écran de connecté.
+Un point d'alimentation pour les **haut-parleurs** et la **kinect**. Un point d'alimentation pour les **lumières** et le **projecteur**. Un point d'alimentation pour l'**ordinateur**. Un câble **HDMI** entre l'ordinateur et le projecteur. Les **haut-parleur** sont connectés à une **carte de son** et la **carte de son** est connectée à l'**ordinateur**. La **Kinect** est connectée avec un adaptateur à l'ordinateur. L'**ordinateur** a un clavier, une souris et un écran de connecté.
 
 [ - Préciser comment les câblages et connexions seront organisés pour assurer la sécurité et l’esthétique de l’installation.]: #
 
@@ -158,23 +158,23 @@ Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alime
 
 ### Liste des équipements
 
-#### Projecteur (**Epson EX3280 Projector**) :
+#### Projecteur (**Epson EX3280 Projector**) x1 :
 
 [PDF sur le projecteur](https://files.support.epson.com/docid/cpd5/cpd59120.pdf)
 
 <img alt="projecteur" src="medias/images/projecteur.png" width="70%">
 
-#### Lumière (**5PX HEX**) :
+#### Lumière (**5PX HEX**) x2 :
 
 [Documentation American DJ 5PX HEX](https://www.adj.com/5px-hex)
 
 <img alt="lumiere" src="medias/images/lumiere.png" width="70%">
 
-#### Speaker (**Genelec 8040B**) :
+#### Haut-parleur (**Genelec 8040B**) x2 :
 
 [Documentation Genelec 8040B](https://www.genelec.com/8040b)
 
-<img alt="speakers" src="medias/images/speaker.png" width="70%">
+<img alt="haut-parleurs" src="medias/images/speaker.png" width="70%">
 
 #### **Kinect** :
 
@@ -184,15 +184,15 @@ Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alime
 
 <img alt="kinect" src="medias/images/500px-KinectForWindows.jpg" width="70%">
 
-#### **Carte de son**
+#### **Carte de son x1**
 
 #### **Câbles** (extensions, cables pour la kinect, cables pour les lumières)
 
-* Câble **XLR** [Acheter Amazon](https://www.amazon.ca/AmazonBasics-Câble-microphone-mâle-femelle/dp/B01JNLTTKS/ref=sr_1_1_ffob_sspa?dib=eyJ2IjoiMSJ9.Qc7Bm99GBP3_XdgZcQz45tvwI3ZqROZzvEu4V-F-QT388d0dx-YLODgUtsRmCb0TR1FPGUPEwhox88PlZm-JDHYXqmpN1VxeKf3W5k1g5NU1RZ2TFPbPHEgvEOSrXuJr0p9KFPer01MgBdV8xSHpXD5YZ1GfRCRcvu-F_YgfHtW0nnIjJADUKZ3dbmYpX97Y90rhmCpxBn37eHkWwjjazddP0l0gZG9GyMqQk0WBrxC5mV0aQjAITQ2gDr7Wvfz22xvF73O-EgQPh9p3sYhI7UYglNw0inOt6GjZYTSyBVE.dWFeMSa3GcqU8O-ySO4vj7Pt5r6aBAjf_mexNg1_OKA&dib_tag=se&hvadid=208379556679&hvdev=c&hvlocphy=9000598&hvnetw=g&hvqmt=e&hvrand=5867566891861396795&hvtargid=kwd-299658550019&hydadcr=5480_9838916&keywords=cable%2Bxlr&qid=1730664946&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+* Câble **XLR** (x5) [Acheter Amazon](https://www.amazon.ca/AmazonBasics-Câble-microphone-mâle-femelle/dp/B01JNLTTKS/ref=sr_1_1_ffob_sspa?dib=eyJ2IjoiMSJ9.Qc7Bm99GBP3_XdgZcQz45tvwI3ZqROZzvEu4V-F-QT388d0dx-YLODgUtsRmCb0TR1FPGUPEwhox88PlZm-JDHYXqmpN1VxeKf3W5k1g5NU1RZ2TFPbPHEgvEOSrXuJr0p9KFPer01MgBdV8xSHpXD5YZ1GfRCRcvu-F_YgfHtW0nnIjJADUKZ3dbmYpX97Y90rhmCpxBn37eHkWwjjazddP0l0gZG9GyMqQk0WBrxC5mV0aQjAITQ2gDr7Wvfz22xvF73O-EgQPh9p3sYhI7UYglNw0inOt6GjZYTSyBVE.dWFeMSa3GcqU8O-ySO4vj7Pt5r6aBAjf_mexNg1_OKA&dib_tag=se&hvadid=208379556679&hvdev=c&hvlocphy=9000598&hvnetw=g&hvqmt=e&hvrand=5867566891861396795&hvtargid=kwd-299658550019&hydadcr=5480_9838916&keywords=cable%2Bxlr&qid=1730664946&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
-* Câble **XLR** femelle vers **TRS** [Acheter Amazon](https://www.amazon.ca/AmazonBasics-Câble-microphone-mâle-femelle/dp/B01JNLTTKS/ref=sr_1_1_ffob_sspa?dib=eyJ2IjoiMSJ9.Qc7Bm99GBP3_XdgZcQz45tvwI3ZqROZzvEu4V-F-QT388d0dx-YLODgUtsRmCb0TR1FPGUPEwhox88PlZm-JDHYXqmpN1VxeKf3W5k1g5NU1RZ2TFPbPHEgvEOSrXuJr0p9KFPer01MgBdV8xSHpXD5YZ1GfRCRcvu-F_YgfHtW0nnIjJADUKZ3dbmYpX97Y90rhmCpxBn37eHkWwjjazddP0l0gZG9GyMqQk0WBrxC5mV0aQjAITQ2gDr7Wvfz22xvF73O-EgQPh9p3sYhI7UYglNw0inOt6GjZYTSyBVE.dWFeMSa3GcqU8O-ySO4vj7Pt5r6aBAjf_mexNg1_OKA&dib_tag=se&hvadid=208379556679&hvdev=c&hvlocphy=9000598&hvnetw=g&hvqmt=e&hvrand=5867566891861396795&hvtargid=kwd-299658550019&hydadcr=5480_9838916&keywords=cable%2Bxlr&qid=1730664946&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+* Câble **XLR** femelle vers **TRS** (x2) [Acheter Amazon](https://www.amazon.ca/AmazonBasics-Câble-microphone-mâle-femelle/dp/B01JNLTTKS/ref=sr_1_1_ffob_sspa?dib=eyJ2IjoiMSJ9.Qc7Bm99GBP3_XdgZcQz45tvwI3ZqROZzvEu4V-F-QT388d0dx-YLODgUtsRmCb0TR1FPGUPEwhox88PlZm-JDHYXqmpN1VxeKf3W5k1g5NU1RZ2TFPbPHEgvEOSrXuJr0p9KFPer01MgBdV8xSHpXD5YZ1GfRCRcvu-F_YgfHtW0nnIjJADUKZ3dbmYpX97Y90rhmCpxBn37eHkWwjjazddP0l0gZG9GyMqQk0WBrxC5mV0aQjAITQ2gDr7Wvfz22xvF73O-EgQPh9p3sYhI7UYglNw0inOt6GjZYTSyBVE.dWFeMSa3GcqU8O-ySO4vj7Pt5r6aBAjf_mexNg1_OKA&dib_tag=se&hvadid=208379556679&hvdev=c&hvlocphy=9000598&hvnetw=g&hvqmt=e&hvrand=5867566891861396795&hvtargid=kwd-299658550019&hydadcr=5480_9838916&keywords=cable%2Bxlr&qid=1730664946&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
-* Câble **XLR** femelle vers **USB** [Acheter Amazon](https://www.amazon.ca/femelle-microphone-adaptateur-instruments-enregistrement/dp/B07WR14TYX/ref=sr_1_4_sspa?__mk_fr_CA=ÅMÅŽÕÑ&crid=2IOWF3QHGFSZN&dib=eyJ2IjoiMSJ9.dQGpMpgA9Iulza1HVu-XlK5gRTuLdXG4dKc3tbkKYKA-jMTHiCHNEq1TxnnkXODERf6h6RV-d2g33HtukI6CtW-rpr89U-fAFdxlsNMZ4OfGr21F6ud2zMlh0LZVeyRD0NEMft_wn6JiwvrKmUaYTlQTdfAbuoZpqtVW8t33pGZMe2eCrpvzHhdHhy04AVP7s8HqiZ-ufZRq5aGKWQAI3qPhduy1nDt4jcRi3K5roeoHq32kwXn4Mz8g2hQ1RTwyvAErp7RcdgnHTD0Kfsecbc5vVrnb_O79Sg42bqguw1c.Nf0Li0DKLt-J9auJCgwXc5akNUq49SsF3rtb7SSuqas&dib_tag=se&keywords=cable+xlr+usb&qid=1730665110&sprefix=cable+xlr+usb%2Caps%2C83&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+* Câble **XLR** femelle vers **USB** (x1) [Acheter Amazon](https://www.amazon.ca/femelle-microphone-adaptateur-instruments-enregistrement/dp/B07WR14TYX/ref=sr_1_4_sspa?__mk_fr_CA=ÅMÅŽÕÑ&crid=2IOWF3QHGFSZN&dib=eyJ2IjoiMSJ9.dQGpMpgA9Iulza1HVu-XlK5gRTuLdXG4dKc3tbkKYKA-jMTHiCHNEq1TxnnkXODERf6h6RV-d2g33HtukI6CtW-rpr89U-fAFdxlsNMZ4OfGr21F6ud2zMlh0LZVeyRD0NEMft_wn6JiwvrKmUaYTlQTdfAbuoZpqtVW8t33pGZMe2eCrpvzHhdHhy04AVP7s8HqiZ-ufZRq5aGKWQAI3qPhduy1nDt4jcRi3K5roeoHq32kwXn4Mz8g2hQ1RTwyvAErp7RcdgnHTD0Kfsecbc5vVrnb_O79Sg42bqguw1c.Nf0Li0DKLt-J9auJCgwXc5akNUq49SsF3rtb7SSuqas&dib_tag=se&keywords=cable+xlr+usb&qid=1730665110&sprefix=cable+xlr+usb%2Caps%2C83&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 #### Portable ou ordinateur avec touchDesigner
 
@@ -212,7 +212,7 @@ Un point d'alimentation pour les **speakers** et la **kinect**. Un point d'alime
 
 #### Réseautage
 
-La **kinect** communique avec **TouchDesigner** qui est dans **l'ordinateur** qui est connecter au **projecteur** qui projet le projet. Les **lumières** et les **speakers** marche avec des câbles **XLR**.
+La **kinect** communique avec **TouchDesigner** qui est dans **l'ordinateur** qui est connecter au **projecteur** qui projet le projet. Les **lumières** et les **haut-parleurs** marche avec des câbles **XLR**.
 
 [ - Préciser les logiciels et systèmes nécessaires au bon fonctionnement de l’installation (logiciels de projection, de traitement vidéo, gestion d’éclairage, etc.). - Décrire la gestion des réseaux et des systèmes de communication entre les différentes composantes.]: #
 
